@@ -1,2 +1,38 @@
-# til
-Daily TIL logs – collecting what I learn, one commit at a time.
+# Today I Learned (TIL)
+
+## 🔍 TIL とは
+
+“Today I Learned” の略で、  
+日々の **小さな知見** や **気づき** を一箇所にまとめる場所です。
+
+- 継続することで **自分だけの技術辞典** が完成
+- **草（contribution graph）** を生やしつつモチベ UP
+
+## 🎯 目的
+
+1. **毎日１つ** は必ず学びを書き残す
+2. 将来の **ポートフォリオ** として活用
+3. **振り返りやすい** ログとして蓄積
+
+## 📂 ディレクトリ構造
+
+`devlog/`
+
+- 学んでいて疑問に思ったことや考えたこと、気づいたことをメモのように記録しています。
+- 年/月ごとに MarkDown ファイルで整理しています。
+
+## Git commit
+
+**Template**  
+`<type>: <subject>`
+
+Type
+
+- feat: 新機能(feature)の追加
+- fix: バグ修正
+- docs: ドキュメントに関する変更
+- style: フォーマット等の変更
+- refactor: リファクタに関する変更
+- pref: パフォーマンスに関する変更
+- test: テストに関する変更
+- chore: ビルド/補助ツール/ライブラリ関連の変更
